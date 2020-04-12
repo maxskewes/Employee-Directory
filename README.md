@@ -1,15 +1,22 @@
 # Employee Directory
 ©2020
-A React-based app that displays an employee directory and allows the user to search by name.
+A React-based app that uses axios with Reactjs to display an employee directory with thier information and allows the user to search by name.
 
 ## Built With
-* HTML
-* CSS
-* Javascript
-* JQuery
-* Bootstrap
-* Node
-* NPM
+* [CSS](https://www.w3schools.com/Css)
+* [Javascript](https://www.javascript.com)
+* [JQuery](https://jquery.com)
+* [Bootstrap](https://getbootstrap.com)
+* [Node](https://nodejs.org)
+* [NPM](https://www.npmjs.com)
+
+## Node Modules Used
+* [Axios](https://www.axios.com)
+* [React](https://reactjs.org)
+
+## Deployed with Heroku
+* (herokuapp.com)
+* [Heroku](https://www.heroku.com)
 
 ## Author
 Maxwell Countryman Skewes
@@ -18,4 +25,4 @@ Maxwell Countryman Skewes
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-Thanks to my tutor Mark Steadman and my class TA Claudette Raynor for working with me through this project.
+Thanks to my tutor Mark Steadman\\ and my class TA Claudette Raynor for their assistance through this project.
