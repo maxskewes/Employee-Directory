@@ -25,4 +25,4 @@ Maxwell Countryman Skewes
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-Thanks to my tutor Mark Steadman\\ and my class TA Claudette Raynor for their assistance through this project.
+Thanks to my tutor Mark Steadman and my class TA Claudette Raynor for their assistance through this project.
