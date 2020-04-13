@@ -9,7 +9,7 @@ function Table({ headings, users, handleSort }) {
         id="table"
         className="table table-striped table-hover table-condensed"
       >
-        <thead>
+        <thead className="bg-success">
           <tr>
             {headings.map(({ name, width }) => {
               return (

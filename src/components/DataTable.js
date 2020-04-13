@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Table from "./Table";
 import API from "../utils/API";
-
+import SearchBar from './SearchBar';
 
 export default class DataTable extends Component {
   state = {
@@ -90,6 +90,7 @@ export default class DataTable extends Component {
       <>
     
         <div className="data-area">
+        <SearchBar handleSearchChange={this.handleSearchChange} />
             <Table
             headings={this.headings}
             users={this.state.filteredUsers}
