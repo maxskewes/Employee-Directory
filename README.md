@@ -15,7 +15,7 @@ A React-based app that uses axios with Reactjs to display an employee directory 
 * [React](https://reactjs.org)
 
 ## Deployed with Heroku
-* (herokuapp.com)
+* (https://employee-directory19.herokuapp.com/)
 * [Heroku](https://www.heroku.com)
 
 ## Author
