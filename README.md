@@ -1,5 +1,5 @@
 # Employee Directory
-©2020
+### ©2020
 A React-based app that uses axios with Reactjs to display an employee directory with thier information and allows the user to search by name.
 
 ## Built With
