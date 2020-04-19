@@ -2,6 +2,8 @@
 ### ©2020
 A React-based app that uses axios with Reactjs to display an employee directory with thier information and allows the user to search by name.
 
+![Alt text](./readmeEmployeeDirectory.png?raw=true "AppImage")
+
 ## Built With
 * [CSS](https://www.w3schools.com/Css)
 * [Javascript](https://www.javascript.com)
