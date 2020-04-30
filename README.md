@@ -18,7 +18,6 @@ A React-based app that uses axios with Reactjs to display an employee directory 
 
 ## Deployed with Heroku
 * (https://employee-directory19.herokuapp.com/)
-* [Heroku](https://www.heroku.com)
 
 ## Author
 Maxwell Countryman Skewes
