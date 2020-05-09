@@ -4,6 +4,9 @@ A React-based app that uses axios with Reactjs to display an employee directory 
 
 ![Alt text](./readmeEmployeeDirectory.png?raw=true "AppImage")
 
+## Deployed with Heroku
+* [View the deployed application](https://employee-directory19.herokuapp.com/)
+
 ## Built With
 * [CSS](https://www.w3schools.com/Css)
 * [Javascript](https://www.javascript.com)
@@ -15,9 +18,6 @@ A React-based app that uses axios with Reactjs to display an employee directory 
 ## Node Modules Used
 * [Axios](https://www.axios.com)
 * [React](https://reactjs.org)
-
-## Deployed with Heroku
-* (https://employee-directory19.herokuapp.com/)
 
 ## Author
 Maxwell Countryman Skewes
